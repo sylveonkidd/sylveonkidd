@@ -1,5 +1,6 @@
-## Hi there 👋
+<img width="841" height="184" alt="1000009487" src="https://github.com/user-attachments/assets/826e8f35-4389-4b2f-8219-0eb286345bf6" />
 
+wip
 <!--
 **sylveonkidd/Sylveonkidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
